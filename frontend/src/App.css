@@ -1,0 +1,10 @@
+.App {
+  display: flex;
+  justify-content: center;
+  font-size: x-large;
+}
+
+Button {
+  size: large;
+  font-size: large;
+}

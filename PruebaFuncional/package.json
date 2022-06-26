@@ -1,0 +1,21 @@
+{
+  "name": "pruebafuncional",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha || true"
+  },
+  "author": "USAC",
+  "license": "ISC",
+  "dependencies": {
+    "chromedriver": "^103.0.0",
+    "mocha": "^9.1.1",
+    "selenium-webdriver": "^4.0.0-rc-1",
+    "webdriver-manager": "^12.1.8"
+  },
+  "devDependencies": {
+    "chai": "^4.3.4"
+  }
+
+}
